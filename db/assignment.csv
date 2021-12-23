@@ -1,0 +1,76 @@
+cName,cNo,semester,year,dueDate,assignment_text,totalPoints
+Introduction to Computer Science II,CS171,Fall,2021,2021-12-15,Final Exam,100
+Introduction to Computer Science II,CS171,Fall,2021,2021-12-05,Implement a Binary Search Tree for indexing/searching movies efficiently in IMDB,100
+Introduction to Computer Science II,CS171,Fall,2021,2021-11-24,Implement several sorting optimization algorithms,100
+Introduction to Computer Science II,CS171,Fall,2021,2021-11-04,Implement an Itunes playlist using a double-ended linked list,100
+Introduction to Computer Science II,CS171,Fall,2021,2021-10-20,Midterm exam,60
+Introduction to Computer Science II,CS171,Fall,2021,2021-10-18,Solve the famous Knights Tour problem using a stack,100
+Introduction to Computer Science II,CS171,Fall,2021,2021-10-04,Use ArrayList to program a Blackjack game,100
+Introduction to Computer Science II,CS171,Fall,2021,2021-09-20,Use OOP to implement different types of shapes,100
+Database Systems,CS377,Fall,2021,2021-12-15,Final exam for CS377,200
+Database Systems,CS377,Fall,2021,2021-12-07,Develop a learning management system using PHP!,200
+Database Systems,CS377,Fall,2021,2021-11-05,Formulate MongoDB queries for the Yelp database,100
+Database Systems,CS377,Fall,2021,2021-10-20,Midterm exam,100
+Database Systems,CS377,Fall,2021,2021-10-18,Formulate advanced SQL queries for the Yelp Database,100
+Database Systems,CS377,Fall,2021,2021-10-06,Formulate SQL queries for the Yelp Database,100
+Database Systems,CS377,Fall,2021,2021-09-22,Write relational algebra queries for two different database schemas.,100
+Database Systems,CS377,Fall,2021,2019-11-19,Database design questions.,100
+Database Systems,CS377,Spring,2021,2021-05-06,Online final exam,150
+Database Systems,CS377,Spring,2021,2021-04-28,Database design for the US congress database,100
+Database Systems,CS377,Spring,2021,2021-04-15,Online midterm exam,100
+Database Systems,CS377,Spring,2021,2021-04-02,Develop a Java application to browse the music industry database,100
+Database Systems,CS377,Spring,2021,2021-02-27,Write SQL queries to work with a music industry database.,100
+Database Systems,CS377,Spring,2021,2021-02-09,Write queries and relational constraints in relational algebra for the 2019 Pan Am Games.,100
+Introduction to Computer Science II,CS171,Fall,2020,2020-11-29,Implement a Binary Search Tree for indexing/searching movies efficiently in IMDB,100
+Introduction to Computer Science II,CS171,Fall,2020,2020-11-14,Implement several sorting optimization algorithms,100
+Introduction to Computer Science II,CS171,Fall,2020,2020-10-30,Implement an Itunes playlist using a double-ended linked list,100
+Introduction to Computer Science II,CS171,Fall,2020,2020-10-22,Online midterm for CS171,50
+Introduction to Computer Science II,CS171,Fall,2020,2020-10-15,Solve the famous Knights Tour problem using a stack,100
+Introduction to Computer Science II,CS171,Fall,2020,2020-09-26,Use OOP to implement different types of shapes,100
+Introduction to Computer Science II,CS171,Fall,2020,2020-05-09,Online final exam,120
+Database Systems,CS377,Spring,2020,2020-05-09,Online final exam,150
+Database Systems,CS377,Spring,2020,2020-05-02,Database design for the US congress database,100
+Database Systems,CS377,Spring,2020,2020-04-15,Online midterm exam,100
+Database Systems,CS377,Spring,2020,2020-04-03,Develop a Java application to browse the music industry database,100
+Database Systems,CS377,Spring,2020,2020-02-29,Write SQL queries to work with a music industry database.,100
+Database Systems,CS377,Spring,2020,2020-02-09,Write queries and relational constraints in relational algebra for the 2019 Pan Am Games.,100
+Introduction to Computer Science II,CS171,Fall,2019,2019-12-10,Last exam!,100
+Introduction to Computer Science II,CS171,Fall,2019,2019-12-08,Use a binary search tree to find Twitter Contents,150
+Introduction to Computer Science II,CS171,Fall,2019,2019-12-09,Solve some algorithm analysis questions,10
+Introduction to Computer Science II,CS171,Fall,2019,2019-11-21,Second midterm of the course,60
+Introduction to Computer Science II,CS171,Fall,2019,2019-11-13,Implement a hash table to count the number of times a word appears in a document.,100
+Introduction to Computer Science II,CS171,Fall,2019,2019-10-25,First midterm of the the course.,60
+Introduction to Computer Science II,CS171,Fall,2019,2019-10-24,Implement bubble sort and a non-recursive version of mergesort.,100
+Introduction to Computer Science II,CS171,Fall,2019,2019-10-10,Use stacks and queues to solve a maze traversal problem.,100
+Introduction to Computer Science II,CS171,Fall,2019,2019-10-02,Use stacks to implement a backtracking algorithm to solve N-Queens problem.,100
+Introduction to Computer Science II,CS171,Fall,2019,2019-09-20,Use ArrayList to program a Blackjack game,100
+Database Systems,CS377,Spring,2019,2019-05-06,Final exam for CS377,100
+Database Systems,CS377,Spring,2019,2019-05-03,Perform 3NF normalization on a database,100
+Database Systems,CS377,Spring,2019,2019-04-25,Develop a PHP application to query the supplier database,100
+Database Systems,CS377,Spring,2019,2019-04-18,Write a JDBC application that can execute a SQL query on a selected database.,100
+Database Systems,CS377,Spring,2019,2019-04-04,Answer more advanced queries on the supplier project database.,100
+Database Systems,CS377,Spring,2019,2019-03-26,Answer some SQL queries on the supplier project database.,100
+Database Systems,CS377,Spring,2019,2019-03-21,Midterm for the course,100
+Database Systems,CS377,Spring,2019,2019-02-26,Formulate relational algebra queries,100
+Database Systems,CS377,Spring,2019,2019-02-14,Design a relational data model for various ER models of the university,100
+Database Systems,CS377,Spring,2019,2019-02-07,Create an ER diagram for the Emory College University Database.,100
+Introduction to Computer Science II,CS171,Fall,2018,2019-12-08,Last exam!,100
+Introduction to Computer Science II,CS171,Fall,2018,2019-12-06,Solve some algorithm analysis questions,10
+Introduction to Computer Science II,CS171,Fall,2018,2018-12-05,Use a binary search tree to find Twitter Contents,150
+Introduction to Computer Science II,CS171,Fall,2018,2018-11-19,Second midterm of the course,60
+Introduction to Computer Science II,CS171,Fall,2018,2018-11-13,Implement a hash table to count the number of times a word appears in a document.,100
+Introduction to Computer Science II,CS171,Fall,2018,2018-11-01,Implement bubble sort and a non-recursive version of mergesort.,100
+Introduction to Computer Science II,CS171,Fall,2018,2018-10-22,First midterm of the the course.,60
+Introduction to Computer Science II,CS171,Fall,2018,2018-10-10,Use stacks and queues to solve a maze traversal problem.,100
+Introduction to Computer Science II,CS171,Fall,2018,2018-09-29,Use stacks to implement a backtracking algorithm to solve N-Queens problem.,100
+Introduction to Computer Science II,CS171,Fall,2018,2018-09-13,Use ArrayList to program a Blackjack game.,100
+Introduction to Computer Science II,CS171,Fall,2017,2017-12-13,Last exam!,100
+Introduction to Computer Science II,CS171,Fall,2017,2017-12-08,Solve some algorithm analysis questions,10
+Introduction to Computer Science II,CS171,Fall,2017,2017-12-06,Use a binary search tree to find Twitter Contents,150
+Introduction to Computer Science II,CS171,Fall,2017,2017-11-21,Second midterm of the course,60
+Introduction to Computer Science II,CS171,Fall,2017,2017-11-14,Implement a hash table to count the number of times a word appears in a document.,100
+Introduction to Computer Science II,CS171,Fall,2017,2017-10-24,First midterm of the the course.,60
+Introduction to Computer Science II,CS171,Fall,2017,2017-10-20,Implement bubble sort and a non-recursive version of mergesort.,100
+Introduction to Computer Science II,CS171,Fall,2017,2017-10-08,Use stacks and queues to solve a maze traversal problem.,100
+Introduction to Computer Science II,CS171,Fall,2017,2017-09-28,Use stacks to implement a backtracking algorithm to solve N-Queens problem.,100
+Introduction to Computer Science II,CS171,Fall,2017,2017-09-15,Use ArrayList to program a Blackjack game.,100
